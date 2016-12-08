@@ -10,5 +10,9 @@
     "chat"
   ],
   "author": "Ivaylo Stoyanov",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.1"
+  }
 }
